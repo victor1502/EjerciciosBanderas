@@ -1,0 +1,6 @@
+include ':portugal'
+include ':polonia'
+include ':colombia'
+include ':extremadura'
+include ':app'
+rootProject.name = "Layout_banderas"
